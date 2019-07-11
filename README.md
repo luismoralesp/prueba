@@ -15,3 +15,8 @@ $ pip install -r requirements.txt
 ```
 $ python manage.py runserver
 ```
+
+## Use
+Open this link http://localhost:8000
+user: admin
+password: admin123456
